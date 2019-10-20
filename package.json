@@ -1,0 +1,33 @@
+{
+  "name": "react-basic-app",
+  "version": "1.0.0",
+  "description": "Skeleton of a React Application.",
+  "main": "index.js",
+  "author": "Anderson Conceição",
+  "license": "MIT",
+  "url": "https://github.com/anderson-81/react-basic-app",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "^3.2.0",
+    "prop-types": "^15.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
